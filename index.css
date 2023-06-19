@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500&display=swap');
+
+body {
+    font-family: 'Heebo', sans-serif;
+    background: #f2f2f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    font-size: 15px;
+    font-weight: 200;
+    margin-left: 72px;
+    margin-bottom: 190px;
+}
+
+header {
+    margin: 75px;
+}
+
+header h4 {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+header p {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.img-1 img {
+    margin: 40px;
+    width: 90%;
+    padding: 30px;
+}
+
+.showcase {
+    margin: 20px;
+}
+
+.showcase .clear-text {
+    font-size: 40px;
+    font-weight: 200;
+    margin: 50px;
+}
+
+.showcase .clear-text .text {
+    color: #8c8c8c;
+}
+
+.info-1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: -95px;
+}
+
+.info-1 p {
+    color: #8c8c8c;
+}
+
+.info-2 {
+    display: inline-flex;
+    justify-content: center;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.info-2 .b {
+    margin-left: 295px;
+
+}
+
+.info-2 p {
+    color: #8c8c8c;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.showcase img {
+    margin: 50px 60px;
+    width: 92%;
+}
+
+.bio  {
+    margin-left: 80px;
+}
+
+.bio .infos h5 {
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.bio .infos p {
+    font-size: 50px;
+    font-weight: 200;
+    color: #8c8c8c;
+}
+
+.bio .point {
+    display: flex;
+}
+
+.bio .point h5 {
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.bio .point img {
+    margin-left: 10px;
+    width: 5%;
+    height: 40px;
+    transform: translateY(96px);
+}
+
+/* footer */
+footer p {
+    margin-left: 1220px;
+}
+
